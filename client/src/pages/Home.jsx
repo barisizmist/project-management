@@ -1,7 +1,5 @@
 import React from 'react';
 import AddClientModal from '../component/AddClientModal';
-import Projects from '../component/Projects';
-import Clients from '../component/Clients';
 import AddProjectModal from '../component/AddProjectModal';
 
 export default function Home() {
